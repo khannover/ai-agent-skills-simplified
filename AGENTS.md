@@ -16,7 +16,7 @@ Map every request to a phase. Read the skill file for that phase before acting.
 | "Review this / is this good?" | REVIEW | `skills/review.md` |
 | "Deploy / ship / release this" | SHIP | `skills/ship.md` |
 | "Refactor / simplify / clean up" | REVIEW | `skills/review.md` |
-| "Design an API / interface" | BUILD | `skills/spec.md` then `skills/build.md` |
+| "Design an API / interface" | DEFINE + BUILD | `skills/spec.md` then `skills/build.md` |
 
 ## Rules
 
